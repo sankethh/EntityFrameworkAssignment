@@ -1,0 +1,8 @@
+C:\Users\Sanket\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.deps.json
+C:\Users\Sanket\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.runtimeconfig.json
+C:\Users\Sanket\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.runtimeconfig.dev.json
+C:\Users\Sanket\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.dll
+C:\Users\Sanket\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.csprojAssemblyReference.cache
+C:\Users\Sanket\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Sanket\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.AssemblyInfoInputs.cache
+C:\Users\Sanket\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.AssemblyInfo.cs
