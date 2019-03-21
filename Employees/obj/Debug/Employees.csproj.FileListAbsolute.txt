@@ -1,0 +1,12 @@
+C:\Users\Sanket\source\repos\Employee\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+C:\Users\Sanket\source\repos\Employee\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Sanket\source\repos\Employee\Employees\bin\Debug\Employees.exe.config
+C:\Users\Sanket\source\repos\Employee\Employees\bin\Debug\Employees.exe
+C:\Users\Sanket\source\repos\Employee\Employees\bin\Debug\Employees.pdb
+C:\Users\Sanket\source\repos\Employee\Employees\bin\Debug\EntityFramework.dll
+C:\Users\Sanket\source\repos\Employee\Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sanket\source\repos\Employee\Employees\bin\Debug\EntityFramework.xml
+C:\Users\Sanket\source\repos\Employee\Employees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sanket\source\repos\Employee\Employees\obj\Debug\Employees.csproj.CopyComplete
+C:\Users\Sanket\source\repos\Employee\Employees\obj\Debug\Employees.exe
+C:\Users\Sanket\source\repos\Employee\Employees\obj\Debug\Employees.pdb
